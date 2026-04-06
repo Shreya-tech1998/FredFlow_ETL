@@ -1,0 +1,4 @@
+code,name,granularity,lookback
+DFF,"Federal Funds Effective Rate",DAILY,30
+GDP,"Gross Domestic Product",QUARTERLY,90
+UNRATE,"Unemployment Rate",MONTHLY,60
